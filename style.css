@@ -109,7 +109,7 @@ img{
     font-weight: 700;
 }
 .banner-sec{
-    background-image: url(../img/s-2-1_3b10ef68-da51-4320-9758-7f3d58ba0a15_2048x.jpg);
+    background-image: url(s-2-1_3b10ef68-da51-4320-9758-7f3d58ba0a15_2048x.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -319,7 +319,7 @@ img{
     display:none;
 }
 .hand-knitbox{
-    background-image: url(../img/look-content.jpg);
+    background-image: url(look-content.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 300px 0;
